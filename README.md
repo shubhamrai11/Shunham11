@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...computer game 
 - 🌱 I’m currently learning ... cooding and web development
 - 💞️ I’m looking to collaborate on ...project development 
-- 📫 How to reach me ...rai@gmail.com
+- 📫 How to reach me rai638683@gmail.com
 -
 
 <!---
