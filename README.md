@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shunham11
+- 👋 Hi, I’m @Shubham11
 - 👀 I’m interested in ...computer game 
 - 🌱 I’m currently learning ... cooding and web development
 - 💞️ I’m looking to collaborate on ...project development 
